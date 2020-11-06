@@ -1,0 +1,10 @@
+/Users/kwacky1/Workspace/hellocsharp/bin/Debug/netcoreapp3.1/hellocsharp.deps.json
+/Users/kwacky1/Workspace/hellocsharp/bin/Debug/netcoreapp3.1/hellocsharp.runtimeconfig.json
+/Users/kwacky1/Workspace/hellocsharp/bin/Debug/netcoreapp3.1/hellocsharp.runtimeconfig.dev.json
+/Users/kwacky1/Workspace/hellocsharp/bin/Debug/netcoreapp3.1/hellocsharp.dll
+/Users/kwacky1/Workspace/hellocsharp/bin/Debug/netcoreapp3.1/hellocsharp.pdb
+/Users/kwacky1/Workspace/hellocsharp/obj/Debug/netcoreapp3.1/hellocsharp.csprojAssemblyReference.cache
+/Users/kwacky1/Workspace/hellocsharp/obj/Debug/netcoreapp3.1/hellocsharp.AssemblyInfoInputs.cache
+/Users/kwacky1/Workspace/hellocsharp/obj/Debug/netcoreapp3.1/hellocsharp.AssemblyInfo.cs
+/Users/kwacky1/Workspace/hellocsharp/obj/Debug/netcoreapp3.1/hellocsharp.dll
+/Users/kwacky1/Workspace/hellocsharp/obj/Debug/netcoreapp3.1/hellocsharp.pdb
