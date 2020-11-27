@@ -1,6 +1,6 @@
 using System;
 
-namespace lesleyanneb
+namespace building
 {
     class Program
     {
