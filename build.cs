@@ -2,7 +2,7 @@ using System;
 
 namespace building
 {
-    class Program
+    class Snowgram
     {
         static void Main(string[] args)
         {
