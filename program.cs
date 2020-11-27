@@ -6,7 +6,7 @@ namespace building
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello fancy builds!");
+            Console.WriteLine("Hello fancy build!");
         }
     }
 }
