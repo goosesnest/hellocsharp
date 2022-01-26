@@ -3,7 +3,7 @@
     "name": ".NETCoreApp,Version=v3.1",
     "signature": ""
   },
-  "compilationOptions": {making a change with editorconfig in place},
+  "compilationOptions": {making a change with editorconfig in},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "hellocsharp/1.0.0": {
